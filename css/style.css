@@ -249,7 +249,8 @@ h6 {
 @media (max-width:47.99875em) {
   .hero__container {
     height: auto;
-    margin-top: 80px
+    margin-top: 80px;
+    margin-bottom: 80px
   }
   .hero__card {
     width: 100%;
