@@ -247,6 +247,10 @@ h6 {
   box-shadow: 0 4px 10px rgba(37,43,55,.15)
 }
 @media (max-width:47.99875em) {
+  .hero__container {
+    height: auto;
+    margin-top: 80px
+  }
   .hero__card {
     width: 100%;
     padding: 48px 16px 32px 16px
